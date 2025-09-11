@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 provider "aws" {
   region = "ap-south-1"
 }
@@ -166,3 +167,6 @@ resource "aws_lb_listener" "web_listener" {
     target_group_arn = aws_lb_target_group.web_tg.arn
   }
 }
+=======
+hi
+>>>>>>> 2914e4eafdb8222e510e27a3cf1b7a9717753aa8
