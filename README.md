@@ -1,2 +1,2 @@
 hello buddy
-wow
+there are no time to die
