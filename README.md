@@ -7,3 +7,4 @@
             hey buddy ?
           )hi amazing 
           hi buddy (/)
+          amazing my way
