@@ -1,9 +1,9 @@
 
 
 
-        wellcome home
+ wellcome home
           in our villa.. "HATRUN"
           (
             hey buddy ?
           )hi amazing 
-          hi buddy
+          hi buddy (/)
